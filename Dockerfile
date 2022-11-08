@@ -1,6 +1,6 @@
 FROM tomcat:8.5.16-jre8
 
-MAINTAINER Richard Chesterwood "contact@virtualpairprogrammers.com"
+MAINTAINER Prashanth "prashanthab39@gmail.com"
 
 RUN rm -rf ./webapps/*
 
